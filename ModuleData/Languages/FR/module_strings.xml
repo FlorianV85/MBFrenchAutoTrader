@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<base xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" type="string">
+  <tags>
+    <tag language="Français" />
+  </tags>
+  <strings>
+    <string id="ATStartup01" text="Merci d'utiliser AutoTrader ! Appuyez sur les touches &lt;ALT + Q" />
+    <string id="ATStartup02" text="&gt; pour ouvrir le menu des paramètres" />
+    <string id="ATVersionMismatch01" text="Vous utilisez AutoTrader pour " />
+    <string id="ATVersionMismatch02" text=" avec Bannerlord " />
+    <string id="ATVersionMismatch03" text=". Si vous rencontrez des problèmes, consultez la page du mod pour obtenir une version adaptée.." />
+    <!---->
+    <string id="ATTrade" text="Commerce automatique" />
+    <string id="ATCaravan" text="J'aimerai consulter vos marchandises (Commerce automatique)" />
+    <!---->
+    <string id="ATConfig" text="Options de AutoTrader" />
+    <string id="ATOptions" text="Configuration de AutoTrader" />
+    <string id="ATLockHint" text="Verrouiller les articles pour éviter qu'ils ne soient vendus." />
+    <string id="ATPresets" text="Préréglages" />
+    <string id="ATPreDefault" text="Par défaut" />
+    <string id="ATPreSeller" text="Vendeur de butin" />
+    <string id="ATPreGlobal" text="Global" />
+    <string id="ATPreLocal" text="Local" />
+    <!---->
+    <string id="ATHeaderBase" text="Options de base" />
+    <string id="ATHeaderCustom" text="Préférences de l'utilisateur" />
+    <string id="ATHeaderSpecial" text="Options spéciales" />
+    <string id="ATHeaderTrade" text="Options d'achat / revente" />
+    <!---->
+    <string id="ATShowAdvanced" text="Afficher les paramètres avancés" />
+    <string id="ATSimpleAI" text="Axé sur le vert/rouge (s'améliore avec les rumeurs de commerce)" />
+    <string id="ATWeightedRadius" text="Prix moyen pondéré par la distance" />
+    <string id="ATBuyThreshold" text="Acheter en dessous de % du prix moyen " />
+    <string id="ATSellThreshold" text="Vendre au-dessus de % du prix moyen" />
+    <string id="ATMaxCapacity" text="% max. de l'inventaire pouvant être remplit par le même article" />
+    <string id="ATKeepGrainsMin" text="Minimum de céréales à conserver" />
+    <string id="ATKeepGrainsMax" text="Maximum de céréales à conserver" />
+    <string id="ATKeepConsumables" text="Minimum des autres consommables à conserver" />
+    <string id="ATKeepConsumables" text="Maximum des autres consommables à conserver" />
+    <string id="ATUseInventorySpace" text="Capacité d'inventaire que le mod peut utiliser" />
+    <string id="ATKeepWages" text="Conserver suffisament d'or pour payer X jours de salaire aux troupes" />
+    <string id="ATSearchRadius" text="Rayon de recherche des prix moyens" />
+    <string id="ATWeaponsArmorTier" text="Vendre des armes et armures de niveau X et inférieur" />
+    <!---->
+    <string id="ATAltAT" text="Utiliser le raccourci &lt;Alt + Q + T&gt; plutôt que &lt;Alt + Q&gt;" />
+    <string id="ATJunkCattle" text="Toujours vendre la totalité du bétail" />
+    <string id="ATSellSmithing" text="Vendre du charbon et des lingots" />
+    <string id="ATKeepSmelting" text="Conserver les armes qui peuvent être fondues" />
+    <string id="ATResupplyHardwood" text="Bois dur comme « consommable à conserver »" />
+    <string id="ATResupply" text="Nourriture comme « consommable à conserver »" />
+    <!---->
+    <string id="ATTradeHorses" text="Marchander des chevaux" />
+    <string id="ATTradeWeapons" text="Marchander des armes (sous le niveau X)" />
+    <string id="ATTradeArmor" text="Marchander des armures (sous le niveau X)" />
+    <string id="ATTradeGoods" text="Marchander des biens" />
+    <string id="ATTradeConsumables" text="Marchander des consommables" />
+    <string id="ATTradeLivestock" text="Marchander du bétail (peut provoquer la formation de troupeaux)" />
+    <!---->
+    <string id="ATAll" text="Tous" />
+    <string id="ATInf" text="Inf." />
+    <!---->
+    <string id="ATBuy" text="Acheter" />
+    <string id="ATSell" text="Vendre" />
+    <string id="ATDefault" text="Défaut : " />
+    <string id="ATDone" text="Terminer" />
+    <string id="ATCancel" text="Annuler" />
+  </strings>
+</base>
